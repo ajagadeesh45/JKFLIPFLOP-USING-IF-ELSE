@@ -74,4 +74,3 @@ module jk (j, k, clk, rst, q);
 Thus the JK flipflop using verilog and validating their functionality using their functional tables are verified.
 
 
-**RESULTS**
